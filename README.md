@@ -2,6 +2,10 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=120&text=안녕하세요&animation=scaleIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 새로운 기술에 도전하며 성장하는 개발자 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 저는 새로운 기술과 도전을 즐기며 끊임없이 배우는 것을 좋아합니다.</li><li> 항상 긍정적인 태도로 더 나은 개발자가 되기 위해 노력합니다.</li><li> 앞으로도 꾸준히 성장하여 더 나은 개발자가 되기 위해 노력하겠습니다. </div> 
+    </div>
+    <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
