@@ -12,7 +12,6 @@
 
 ## 🏅 Stats
 ![JaeHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimJH0709&show_icons=true&theme=radical)
-<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjsghkqjsgh6)](https://solved.ac/wjsghkqjsgh6/)
 
 ## 🛠️ Tech Stacks
