@@ -4,7 +4,7 @@
 
 </br>
 <div align=center>
-    <h3>반갑습니다! 백엔드 개발자 김재현입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" /></h3>
+    <h3>반갑습니다! 개발자 김재현입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" /></h3>
         저는 새로운 기술과 도전을 즐기며 끊임없이 배우는 것을 좋아합니다.</br>
         항상 긍정적인 태도로 더 나은 개발자가 되기 위해 노력합니다.</br>
         앞으로도 꾸준히 성장하여 더 나은 개발자가 되기 위해 노력하겠습니다.
